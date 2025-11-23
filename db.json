@@ -1,14 +1,40 @@
 {
-    "posts": [
+    "rides": [
         {
-            "id": 1,
-            "title": "JSON-Server",
-            "author": "Amit"
+            "year": 1970,
+            "make": "Ford",
+            "model": "Mustang",
+            "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4557.jpg"
         },
         {
-            "id": 2,
-            "title": "Node.js",
-            "author": "Mohit"
+            "year": 2009,
+            "make": "Pontiac",
+            "model": "Solstice",
+            "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4846.jpg"
+        },
+        {
+            "year": 1988,
+            "make": "Buick",
+            "model": "Century",
+            "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4823.jpg"
+        },
+        {
+            "year": 2010,
+            "make": "Cadillac",
+            "model": "CTS-V",
+            "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4801.jpg"
+        },
+        {
+            "year": 2015,
+            "make": "Lexus",
+            "model": "RC-F",
+            "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4675.jpg"
+        },
+        {
+            "year": 1998,
+            "make": "Suzuki",
+            "model": "Wagon R",
+            "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4746.jpg"
         }
     ]
 }
