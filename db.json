@@ -1,74 +1,44 @@
 [
     {
+        "id": 1,
         "year": 1991,
         "make": "Infiniti",
         "model": "Q45",
         "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_0557.jpg"
     },
     {
+        "id": 2,
         "year": 1983,
         "make": "Lamborghini",
         "model": "Countach LP500",
         "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_2207.jpg"
     },
     {
+        "id": 3,
         "year": 2025,
         "make": "Bentley",
         "model": "Batur",
         "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_2526.jpg"
     },
     {
+        "id": 4,
         "year": 2011,
         "make": "Mercedes-Benz",
         "model": "SLS AMG",
         "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4119.jpg"
     },
     {
+        "id": 5,
         "year": 1959,
         "make": "Nash",
         "model": "Metropolitan",
         "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4870.jpg"
     },
     {
+        "id": 6,
         "year": 2003,
         "make": "BMW",
         "model": "M5",
         "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_6262.jpg"
     },
-    {
-        "year": 1970,
-        "make": "Ford",
-        "model": "Mustang",
-        "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4557.jpg"
-    },
-    {
-        "year": 2009,
-        "make": "Pontiac",
-        "model": "Solstice",
-        "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4846.jpg"
-    },
-    {
-        "year": 1988,
-        "make": "Buick",
-        "model": "Century",
-        "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4823.jpg"
-    },
-    {
-        "year": 2010,
-        "make": "Cadillac",
-        "model": "CTS-V",
-        "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4801.jpg"
-    },
-    {
-        "year": 2015,
-        "make": "Lexus",
-        "model": "RC-F",
-        "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4675.jpg"
-    },
-    {
-        "year": 1998,
-        "make": "Suzuki",
-        "model": "Wagon R",
-        "image_url": "https://pub-940f423c24074b9ebe0052cc5f384faa.r2.dev/IMG_4746.jpg"
-    }
 ]
